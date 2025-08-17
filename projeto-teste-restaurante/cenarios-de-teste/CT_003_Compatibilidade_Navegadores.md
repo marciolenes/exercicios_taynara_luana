@@ -5,7 +5,7 @@
 
 ---
 
-[cite_start]**Objetivo:** Garantir que o sistema seja funcional e visualmente consistente nos navegadores e dispositivos mais populares[cite: 46].
+**Objetivo:** Garantir que o sistema seja funcional e visualmente consistente nos navegadores e dispositivos mais populares.
 
 **Pré-condições:**
 - O fluxo de pedido completo (CT_001) deve ser usado como base para a execução em cada ambiente.
@@ -13,11 +13,11 @@
 ---
 
 ### Ambientes de Teste:
-- [cite_start]**Navegador 1:** Google Chrome (Última versão) em Desktop[cite: 118].
-- [cite_start]**Navegador 2:** Mozilla Firefox (Última versão) em Desktop[cite: 118].
-- [cite_start]**Navegador 3:** Safari (Última versão) em macOS[cite: 118].
-- [cite_start]**Dispositivo 4:** Emulador do Chrome DevTools - Viewport "iPhone 12 Pro"[cite: 119].
-- [cite_start]**Dispositivo 5:** Emulador do Chrome DevTools - Viewport "Samsung Galaxy S20 Ultra"[cite: 119].
+- **Navegador 1:** Google Chrome (Última versão) em Desktop.
+- **Navegador 2:** Mozilla Firefox (Última versão) em Desktop.
+- **Navegador 3:** Safari (Última versão) em macOS.
+- **Dispositivo 4:** Emulador do Chrome DevTools - Viewport "iPhone 12 Pro".
+- **Dispositivo 5:** Emulador do Chrome DevTools - Viewport "Samsung Galaxy S20 Ultra".
 
 ---
 
