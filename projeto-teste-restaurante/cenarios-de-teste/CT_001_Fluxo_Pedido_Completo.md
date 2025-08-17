@@ -1,6 +1,7 @@
 # Cenário de Teste: CT_001 - Fluxo de Pedido Completo (Caminho Feliz)
 
 **Funcionalidade:** Finalização de Pedido
+
 **Prioridade:** CRÍTICA
 
 ---
@@ -23,3 +24,4 @@
 | 6 | Preencher os campos com dados de um cartão de teste válido. | O sistema aceita os dados sem erros. |
 | 7 | Clicar em "Confirmar Pagamento". | O pagamento é processado e o sistema exibe uma mensagem de "Pedido realizado com sucesso!". |
 | 8 | Navegar para a tela "Meus Pedidos". | O novo pedido é exibido com o status "Recebido". |
+
