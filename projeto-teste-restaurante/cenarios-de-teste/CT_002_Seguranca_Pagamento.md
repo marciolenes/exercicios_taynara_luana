@@ -1,6 +1,7 @@
 # Cenário de Teste: CT_002 - Segurança no Checkout
 
 **Funcionalidade:** Finalização de Pedido (Segurança)
+
 **Prioridade:** CRÍTICA
 
 ---
@@ -32,3 +33,4 @@
 ### 4. Integração com Gateway de Pagamento
 - **Cenário 4.1:** Realizar um pagamento com um cartão de teste que simule uma transação negada pelo banco.
   - **Resultado Esperado:** O sistema deve exibir uma mensagem amigável informando que o pagamento foi recusado e não expor detalhes técnicos do erro.
+
