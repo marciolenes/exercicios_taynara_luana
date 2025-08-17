@@ -1,6 +1,6 @@
 # Projeto de Estudo: Planejamento de Testes para Sistema de Restaurante
 
-Este repositório contém um projeto de estudo prático sobre Qualidade de Software (QA), baseado em um exercício de planejamento de testes para um sistema web de um restaurante. O conteúdo foi convertido do documento `Atividade Pratica - Aula 3 - Marcio Lenes.pdf` para um formato adequado para um repositório Git.
+Este repositório contém um projeto de estudo prático sobre Qualidade de Software (QA), baseado em um exercício de planejamento de testes para um sistema web de um restaurante. O conteúdo foi convertido do documento `Atividade_Pratica_Aula_3_Marcio_Lenes.pdf` para um formato adequado para um repositório Git.
 
 ## Contexto
 
@@ -34,3 +34,4 @@ Com base no impacto para o negócio e para o usuário, as funcionalidades foram 
   - `CT_001_Fluxo_Pedido_Completo.md`: Exemplo de cenário "caminho feliz".
   - `CT_002_Seguranca_Pagamento.md`: Detalhamento dos testes de segurança focados no checkout, baseado no Exercício 03.
   - `CT_003_Compatibilidade_Navegadores.md`: Exemplo de testes para múltiplos navegadores.
+
