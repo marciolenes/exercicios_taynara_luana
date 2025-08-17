@@ -1,6 +1,7 @@
 # Cenário de Teste: CT_003 - Compatibilidade em Navegadores e Dispositivos
 
 **Funcionalidade:** Validação de Interface e Layout
+
 **Prioridade:** ALTA
 
 ---
@@ -32,3 +33,4 @@
 | **5. Modais e Pop-ups** | Mensagens de confirmação ou erro são exibidas de forma centralizada e são responsivas. |
 
 **Resultado Esperado:** O fluxo completo deve ser concluído com sucesso em todos os ambientes listados, sem apresentar defeitos visuais ou funcionais críticos.
+
